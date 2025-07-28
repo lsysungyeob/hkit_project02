@@ -6,5 +6,5 @@ ADHD 진단을 위한 음성인식 프로젝트에서
 notion : https://cyclic-close-b99.notion.site/Project2-ADHD-be9228e8c9eb455a9e343717035226bd?source=copy_link  
 
 다른 프로젝트
-폐 결절 양성/악성 분류 : https://github.com/lsysungyeob/hkit_project01
-뇌수막종 세그먼트 : https://github.com/lsysungyeob/hkit_project03
+폐 결절 양성/악성 분류 : https://github.com/lsysungyeob/hkit_project01  
+뇌수막종 세그먼트 : https://github.com/lsysungyeob/hkit_project03  
